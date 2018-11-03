@@ -32,3 +32,7 @@ Personal solution to PintOS Project 1.
     - implementation: ```checkInvoke(), thread_cmp_priority(), thread_donate_priority(), thread_hold_lock(), thread_remove_lock(), lock_cmp_priority(), thread_update_priority(), mlfqs_inc_recent_cpu(), mlfqs_update_load_avg_and_recent_cpu(), mlfqs_update_priority(), thread_set_nice(), thread_get_nice(), thread_get_load_avg(), thread_get_recent_cpu()```
     - modification: ```thread_unblock(), thread_yield(), thread_set_priority(), init_thread()```
     
+ ## References
+ - I cannot install PintOS correctly without [this repo](https://github.com/WyldeCat/pintos-anon).
+ - I cannot install bochs correctly without [this page from SourceForge](https://sourceforge.net/projects/bochs/files/bochs/2.6.6/).
+ - I cannot figure out how to deal with this project without [this official help](https://web.stanford.edu/class/cs140/projects/pintos/pintos.html).
