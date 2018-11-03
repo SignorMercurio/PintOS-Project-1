@@ -36,3 +36,4 @@ Personal solution to PintOS Project 1.
  - I cannot install PintOS correctly without [this repo](https://github.com/WyldeCat/pintos-anon).
  - I cannot install bochs correctly without [this page from SourceForge](https://sourceforge.net/projects/bochs/files/bochs/2.6.6/).
  - I cannot figure out how to deal with this project without [this official help](https://web.stanford.edu/class/cs140/projects/pintos/pintos.html).
+ - I can make it without my teacher's help, but still I'd like to thank her too.
